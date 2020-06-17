@@ -1,0 +1,13 @@
+{
+  "name": "BitcoinTrxMaker",
+  "version": "1.0.0",
+  "keywords": [
+    "bitcoin"
+  ],
+  "author": "baso10",
+  "contributors": [],
+  "dependencies": {
+    "bitcoinjs-lib": "^5.1.10",
+    "got": "^11.3.0"
+  }
+}

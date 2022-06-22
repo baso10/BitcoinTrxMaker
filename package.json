@@ -8,6 +8,6 @@
   "contributors": [],
   "dependencies": {
     "bitcoinjs-lib": "^5.1.10",
-    "got": "^11.3.0"
+    "got": "^11.8.5"
   }
 }
